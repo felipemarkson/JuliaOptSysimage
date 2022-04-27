@@ -7,8 +7,8 @@ A script to compile Julia's Sysimage for Optimization-based projects.
 
 - [Revise.jl](https://github.com/timholy/Revise.jl) allows you to modify code and use the changes without restarting Julia.
 - [JuMP](https://jump.dev/JuMP.jl/stable/) is a domain-specific modeling language for mathematical optimization.
-- [Plots](https://docs.juliaplots.org/stable/)is a data visualization interface and toolset.
-- [DataFrames.jl](https://dataframes.juliadata.org/stable/), a set of tools for working with tabular data.
+- [Plots](https://docs.juliaplots.org/stable/) is a data visualization interface and toolset.
+- [DataFrames.jl](https://dataframes.juliadata.org/stable/) is a set of tools for working with tabular data.
 - [CSV.jl](https://github.com/JuliaData/CSV.jl) is a Utility library for working with CSV and other delimited files.
 
 Package versions are defined during the build process.
